@@ -1,0 +1,142 @@
+{
+  "source_url": "https://www.data.gov.in/resource/current-daily-price-various-commodities-various-markets-mandi",
+  "api_endpoint_documented_by_source": "https://api.data.gov.in/resource/9ef84268-d588-465a-a308-a864a43d0070",
+  "retrieval_method": "Official data.gov.in resource page public Preview tab",
+  "retrieved_at": "2026-09-11",
+  "records_retrieved": 10,
+  "records_shown_by_official_preview": 16262,
+  "columns": [
+    "State",
+    "District",
+    "Market",
+    "Commodity",
+    "Variety",
+    "Grade",
+    "Arrival Date",
+    "Min X0020 Price",
+    "Max X0020 Price",
+    "Modal X0020 Price"
+  ],
+  "records": [
+    {
+      "State": "Odisha",
+      "District": "Mayurbhanja",
+      "Market": "Baripada APMC",
+      "Commodity": "Bitter gourd",
+      "Variety": "Bitter Gourd",
+      "Grade": "Medium",
+      "Arrival Date": "11/09/2026",
+      "Min X0020 Price": "3000",
+      "Max X0020 Price": "5000",
+      "Modal X0020 Price": "3500"
+    },
+    {
+      "State": "Tripura",
+      "District": "Dhalai",
+      "Market": "Kulai APMC",
+      "Commodity": "Papaya(Raw)",
+      "Variety": "Other",
+      "Grade": "Grade B",
+      "Arrival Date": "11/09/2026",
+      "Min X0020 Price": "1500",
+      "Max X0020 Price": "2000",
+      "Modal X0020 Price": "1800"
+    },
+    {
+      "State": "Andhra Pradesh",
+      "District": "Prakasam",
+      "Market": "Maddipadu APMC",
+      "Commodity": "Paddy(Common)",
+      "Variety": "B P T",
+      "Grade": "FAQ",
+      "Arrival Date": "11/09/2026",
+      "Min X0020 Price": "2800",
+      "Max X0020 Price": "2800",
+      "Modal X0020 Price": "2800"
+    },
+    {
+      "State": "Keralam",
+      "District": "Kozhikode(Calicut)",
+      "Market": "Mukkom Market",
+      "Commodity": "Pineapple",
+      "Variety": "Other",
+      "Grade": "Large",
+      "Arrival Date": "11/09/2026",
+      "Min X0020 Price": "8000",
+      "Max X0020 Price": "9000",
+      "Modal X0020 Price": "8500"
+    },
+    {
+      "State": "Keralam",
+      "District": "Kozhikode(Calicut)",
+      "Market": "Mukkom Market",
+      "Commodity": "Tomato",
+      "Variety": "Tomato",
+      "Grade": "FAQ",
+      "Arrival Date": "11/09/2026",
+      "Min X0020 Price": "2100",
+      "Max X0020 Price": "2300",
+      "Modal X0020 Price": "2200"
+    },
+    {
+      "State": "Keralam",
+      "District": "Kozhikode(Calicut)",
+      "Market": "Mukkom Market",
+      "Commodity": "Onion",
+      "Variety": "Onion",
+      "Grade": "FAQ",
+      "Arrival Date": "11/09/2026",
+      "Min X0020 Price": "5200",
+      "Max X0020 Price": "5600",
+      "Modal X0020 Price": "5400"
+    },
+    {
+      "State": "Keralam",
+      "District": "Kozhikode(Calicut)",
+      "Market": "Perambra Market",
+      "Commodity": "Pumpkin",
+      "Variety": "Other",
+      "Grade": "FAQ",
+      "Arrival Date": "11/09/2026",
+      "Min X0020 Price": "1800",
+      "Max X0020 Price": "2000",
+      "Modal X0020 Price": "2000"
+    },
+    {
+      "State": "Keralam",
+      "District": "Kozhikode(Calicut)",
+      "Market": "Perambra Market",
+      "Commodity": "Onion",
+      "Variety": "Other",
+      "Grade": "FAQ",
+      "Arrival Date": "11/09/2026",
+      "Min X0020 Price": "5500",
+      "Max X0020 Price": "5800",
+      "Modal X0020 Price": "5700"
+    },
+    {
+      "State": "Keralam",
+      "District": "Kozhikode(Calicut)",
+      "Market": "Perambra Market",
+      "Commodity": "Ginger(Green)",
+      "Variety": "Other",
+      "Grade": "FAQ",
+      "Arrival Date": "11/09/2026",
+      "Min X0020 Price": "16000",
+      "Max X0020 Price": "17000",
+      "Modal X0020 Price": "16500"
+    },
+    {
+      "State": "Keralam",
+      "District": "Kozhikode(Calicut)",
+      "Market": "Perambra Market",
+      "Commodity": "French Beans(Frasbean)",
+      "Variety": "Other",
+      "Grade": "FAQ",
+      "Arrival Date": "11/09/2026",
+      "Min X0020 Price": "6000",
+      "Max X0020 Price": "6500",
+      "Modal X0020 Price": "6300"
+    }
+  ]
+}
